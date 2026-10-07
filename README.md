@@ -4,10 +4,10 @@
 ### Античная арена
 
 
-<picture> <img src="GameRPG/1.png"> 
+```<picture> <img src="GameRPG/1.png"> 
 </picture> 
 
-
+```csharp
 
 using System;
 
