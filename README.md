@@ -4,8 +4,7 @@
 ### Античная арена
 
 
-```<picture> <img src="GameRPG/1.png"> 
-</picture> 
+
 
 ```csharp
 
@@ -389,6 +388,9 @@ Kkkiml:
 }
 ```
 ---
+<picture> <img src="GameRPG/1.png"> 
+</picture> 
+
 <picture> <img src="GameRPG/2.png"> 
 </picture>
 
